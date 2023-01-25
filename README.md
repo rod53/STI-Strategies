@@ -1,1 +1,1 @@
-# STI-Strategies-
+# STI-Strategies
